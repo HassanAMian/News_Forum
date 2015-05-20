@@ -1,0 +1,11 @@
+== News Forum: A Reddit Clone
+
+This is a News Forum application in the style of Reddit made with Ruby on Rails, which allows users to post and comment stories.
+
+* Ruby version 2.2.0
+
+* Rails version 4.2.0
+
+* Gems Used:
+
+
