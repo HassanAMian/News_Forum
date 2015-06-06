@@ -6,8 +6,10 @@ This is a News Forum application in the style of Reddit made with Ruby on Rails,
 
 * Rails version 4.2.0
 
+
 Gems Used:
 - devise 
 - acts_as_votable
 - simple_form
+
 
