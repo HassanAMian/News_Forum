@@ -12,4 +12,5 @@ Gems Used:
 - acts_as_votable
 - simple_form
 
+Basic functionality is now complete - I will come back to this project to make it a little more like Reddit and possibly add some tests.
 
